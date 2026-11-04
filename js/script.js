@@ -385,4 +385,3 @@ function showSuccessFeedback() {
 
 // ===== Initialize App on Load =====
 document.addEventListener('DOMContentLoaded', init);
-      
